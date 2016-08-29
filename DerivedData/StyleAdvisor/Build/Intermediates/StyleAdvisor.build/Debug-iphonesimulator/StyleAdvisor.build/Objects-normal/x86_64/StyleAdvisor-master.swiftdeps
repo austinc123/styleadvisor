@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "de05191d86f044974ec41581d1f94558"
+build_time: [525759023, 844943000]
+inputs:
+  "/Volumes/Data 1/UMich Academics/Soph - 1st sem/EECS final proj/iOS_4_repository-master-8/StyleAdvisor/StyleAdvisor/ViewController.swift": [505880004, 0]
+  "/Volumes/Data 1/UMich Academics/Soph - 1st sem/EECS final proj/iOS_4_repository-master-8/StyleAdvisor/StyleAdvisor/GenderViewController.swift": [503606874, 0]
+  "/Volumes/Data 1/UMich Academics/Soph - 1st sem/EECS final proj/iOS_4_repository-master-8/StyleAdvisor/StyleAdvisor/StyleAdvisor.swift": [503606874, 0]
+  "/Volumes/Data 1/UMich Academics/Soph - 1st sem/EECS final proj/iOS_4_repository-master-8/StyleAdvisor/StyleAdvisor/AppDelegate.swift": [503606874, 0]
